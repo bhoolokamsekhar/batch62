@@ -1,4 +1,3 @@
-print ("helloworld")
+print("helloworld")
 print("hello whoare you")
-hi hello
-how dare you
+print("hello everyone")
